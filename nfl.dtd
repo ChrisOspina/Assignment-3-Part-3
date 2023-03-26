@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT NFL (team+)>
+<!ELEMENT team (name, city, wins, loses)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT wins (#PCDATA)>
+<!ELEMENT loses (#PCDATA)>
+<!ATTLIST team id CDATA #REQUIRED>

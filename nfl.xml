@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<!-- This XML file describes the NFL through each team's record by confernce. This does not include playoff games nor 
+does it include the super bowl in which Kansas City defeated Philadelphia  -->
+<!DOCTYPE NFL SYSTEM "nfl.dtd">
+<NFL>
+        <team id= "1">
+            <name>Eagles</name>
+            <city>Philadelphia</city>
+            <wins>14</wins>
+            <loses>3</loses>
+        </team>
+        <team id= "2">
+            <name>49ers</name>
+            <city>San Francisco</city>
+            <wins>13</wins>
+            <loses>4</loses>
+        </team>
+        <team id= "3">
+            <name>Vikings</name>
+            <city>Minnesota</city>
+            <wins>14</wins>
+            <loses>3</loses>
+        </team>
+        <team id= "4">
+                <name>Buccaneers</name>
+                <city>Tampa Bay</city>
+                <wins>8</wins>
+                <loses>9</loses>
+        </team>
+        <team id= "5">
+                <name>Cowboys</name>
+                <city>Dallas</city>
+                <wins>12</wins>
+                <loses>5</loses>
+        </team>
+        <team id= "6">
+                <name>Giants</name>
+                <city>New York</city>
+                <wins>9</wins>
+                <loses>7</loses>
+        </team>
+        <team id= "7">
+                <name>Seahawks</name>
+                <city>Seattle</city>
+                <wins>9</wins>
+                <loses>8</loses>
+        </team>
+        <team id="8">
+                <name>Lions</name>
+                <city>Detroit</city>
+                <wins>9</wins>
+                <loses>8</loses>
+        </team>
+        <team id="9">
+                <name>Commanders</name>
+                <city>Washington</city>
+                <wins>8</wins>
+                <loses>8</loses>
+        </team>
+        <team id="10">
+                <name>Packers</name>
+                <city>Green Bay</city>
+                <wins>8</wins>
+                <loses>9</loses>
+        </team>
+        <team id="11">
+                <name>Panthers</name>
+                <city>Carolina</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>        
+        <team id="12">
+                <name>Saints</name>
+                <city>New Orleans</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>        
+        <team id="13">
+                <name>Falcons</name>
+                <city>Atlanta</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>
+        <team id="14">
+                <name>Rams</name>
+                <city>Los Angeles</city>
+                <wins>5</wins>
+                <loses>12</loses>
+        </team>
+        <team id="15">
+                <name>Cardinals</name>
+                <city>Arizona</city>
+                <wins>4</wins>
+                <loses>13</loses>
+        </team>
+        <team id="16">
+                <name>Bears</name>
+                <city>Chicago</city>
+                <wins>3</wins>
+                <loses>14</loses>
+        </team>
+       <team id= "17">
+            <name>Chiefs</name>
+            <city>Kansas City</city>
+            <wins>14</wins>
+            <loses>3</loses>
+        </team>
+        <team id= "18">
+            <name>Bills</name>
+            <city>Buffalo</city>
+            <wins>13</wins>
+            <loses>3</loses>
+        </team>
+		<team id= "19">
+            <name>Bengals</name>
+            <city>Cincinatti</city>
+            <wins>12</wins>
+            <loses>4</loses>
+        </team>
+        <team id= "20">
+                <name>Jaguars</name>
+                <city>Jacksonville</city>
+                <wins>9</wins>
+                <loses>9</loses>
+        </team>
+        <team id= "21">
+                <name>Charges</name>
+                <city>Los Angeles</city>
+                <wins>10</wins>
+                <loses>7</loses>
+        </team>
+        <team id= "22">
+                <name>Ravens</name>
+                <city>Baltimore</city>
+                <wins>10</wins>
+                <loses>7</loses>
+        </team>
+        <team id= "23">
+                <name>Dolphins</name>
+                <city>Miami</city>
+                <wins>9</wins>
+                <loses>8</loses>
+        </team>
+        <team id="24">
+                <name>Steelers</name>
+                <city>Pittsburg</city>
+                <wins>9</wins>
+                <loses>8</loses>
+        </team>
+        <team id="25">
+                <name>Patriots</name>
+                <city>New England</city>
+                <wins>8</wins>
+                <loses>9</loses>
+        </team>
+        <team id="26">
+                <name>Jets</name>
+                <city>New York</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>
+        <team id="27">
+                <name>Titans</name>
+                <city>Tennessee</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>        
+        <team id="28">
+                <name>Browns</name>
+                <city>Cleveland</city>
+                <wins>7</wins>
+                <loses>10</loses>
+        </team>        
+        <team id="29">
+                <name>Raiders</name>
+                <city>Las Vegas</city>
+                <wins>6</wins>
+                <loses>11</loses>
+        </team>
+        <team id="30">
+                <name>Broncos</name>
+                <city>Denver</city>
+                <wins>5</wins>
+                <loses>12</loses>
+        </team>
+        <team id="31">
+                <name>Colts</name>
+                <city>Indianapolis</city>
+                <wins>4</wins>
+                <loses>12</loses>
+        </team>
+        <team id="32">
+                <name>Texans</name>
+                <city>Houston</city>
+                <wins>3</wins>
+                <loses>13</loses>
+        </team>
+</NFL>    
